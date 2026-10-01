@@ -1,0 +1,25 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Aftab Ahmad Portfolio Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm run dev --prefix client",
+    "server": "node server/server.js",
+    "build": "npm run build --prefix client"
+  },
+  "keywords": [
+    "portfolio",
+    "mern",
+    "react"
+  ],
+  "author": "Aftab Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^10.0.5",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
