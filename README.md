@@ -113,6 +113,7 @@ portfolio/
 - **Email**: aftabshakar95@gmail.com
 - **Phone**: +92 309 4137386
 - **GitHub**: [github.com/aftabshakar95-sudo](https://github.com/aftabshakar95-sudo)
+- **LinkedIn**: [linkedin.com/in/aftab-ahmad-99a0343a5](https://www.linkedin.com/in/aftab-ahmad-99a0343a5)
 - **Location**: Lahore, Pakistan
 
 ## 📝 Important Note

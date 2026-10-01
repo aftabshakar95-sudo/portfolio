@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import { FaGithub, FaEnvelope, FaPhone, FaMapMarkerAlt } from 'react-icons/fa'
+import { FaGithub, FaEnvelope, FaPhone, FaMapMarkerAlt, FaLinkedin } from 'react-icons/fa'
 import './App.css'
 
 function App() {
@@ -233,6 +233,15 @@ function App() {
                   </a>
                 </div>
               </div>
+              <div className="contact-item">
+                <FaLinkedin className="contact-icon" />
+                <div>
+                  <h4>LinkedIn</h4>
+                  <a href="https://www.linkedin.com/in/aftab-ahmad-99a0343a5" target="_blank" rel="noopener noreferrer">
+                    linkedin.com/in/aftab-ahmad
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -245,6 +254,9 @@ function App() {
           <div className="social-links">
             <a href="https://github.com/aftabshakar95-sudo" target="_blank" rel="noopener noreferrer">
               <FaGithub />
+            </a>
+            <a href="https://www.linkedin.com/in/aftab-ahmad-99a0343a5" target="_blank" rel="noopener noreferrer">
+              <FaLinkedin />
             </a>
             <a href="mailto:aftabshakar95@gmail.com">
               <FaEnvelope />
